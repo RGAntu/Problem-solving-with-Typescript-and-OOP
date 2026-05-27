@@ -2,9 +2,10 @@
 
 Create a TypeScript function filterEvenNumbers that accepts an array of numbers and returns a new array containing only the even numbers.
 
-// Sample Input:
 
 ```ts
+// Sample Input:
+
 filterEvenNumbers([1, 2, 3, 4, 5, 6])[
   // Sample Output:
   (2, 4, 6)
@@ -15,9 +16,10 @@ filterEvenNumbers([1, 2, 3, 4, 5, 6])[
 
 Write a function reverseString that takes a string as input and returns the reversed version of that string.
 
-// Sample Input:
 
 ```ts
+// Sample Input:
+
 reverseString("typescript");
 
 // Sample Output:
